@@ -1,0 +1,37 @@
+{
+  "name": "react-native-audio-streamer",
+  "version": "0.0.9",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:indiecastfm/react-native-audio-streamer.git"
+  },
+  "keywords": [
+    "react-native",
+    "streaming",
+    "audio",
+    "ios",
+    "android",
+    "media",
+    "player"
+  ],
+  "author": "IndieCast.fm",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.31.0"
+  },
+  "main": "index.js",
+  "jest": {
+    "preset": "react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.3",
+    "react-test-renderer": "15.4.1",
+    "react-native": "0.37.0"
+  }
+}

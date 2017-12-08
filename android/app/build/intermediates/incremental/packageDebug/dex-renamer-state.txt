@@ -1,0 +1,4 @@
+#Thu Dec 07 17:55:52 IST 2017
+base.0=/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
