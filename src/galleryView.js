@@ -49,7 +49,8 @@ export default class GalleryView extends Component {
             loading:true,
             refreshing:false,
             networkType:null,
-            image:null
+            image:null,
+            imageIndex:null
         }
         this.handleBackButtonClick = this.handleBackButtonClick.bind(this);
         this._handleNetworkStateChange = this._handleNetworkStateChange.bind(this);
@@ -120,6 +121,9 @@ export default class GalleryView extends Component {
        
             console.log("Render Item");
             const { navigate } = this.props.navigation;
+            var items = this.state.posts;
+            
+            
 
                 return (
                         <TouchableOpacity                               
@@ -131,6 +135,9 @@ export default class GalleryView extends Component {
 
                                 }
                                 else{
+                                    
+                                    var index = items.indexOf(itemData.item);
+                                    console.log("flatlist image index"+index);                                          
                                     this.setState({image:itemData.item.images.full.url});
                                 //navigate('ImageView', { image: itemData.item.images.full.url })
                                 }
@@ -154,6 +161,31 @@ export default class GalleryView extends Component {
 
       
     }
+
+    _renderItem2 = (itemData) => {
+        
+             console.log("Render Item");
+             const { navigate } = this.props.navigation;
+ 
+                 return (
+                    <ImageZoom                                              
+                    cropWidth={width}                           
+                    cropHeight={height}         
+                    imageWidth={width}
+                    imageHeight={width*0.80}>                                                    
+                    <Image1                                                         
+                        indicator={ProgressPie}
+                        indicatorProps={{
+                            color: 'rgba(33,37,101,1)}'   
+                        }}                                                                                   
+                        style={{ 
+                            height: width*0.80, width: width }}                                                                               
+                        source={{ uri: itemData.item.images.full.url }} />
+                </ImageZoom>
+                         
+                 );
+
+     }
 
     render() {
         const { params } = this.props.navigation.state;
@@ -200,11 +232,20 @@ export default class GalleryView extends Component {
                         height: width*0.80, width: width }}                                                                               
                     source={{ uri: this.state.image }} />
             </ImageZoom>
+
+                {/* <FlatList                                                               
+                    horizontal  
+                    pagingEnabled                                                                                                                                                                             
+                    style={{bottom:100}}                                                     
+                    showsHorizontalScrollIndicator={false}
+                    data={this.state.posts}
+                    renderItem={this._renderItem2}
+                    keyExtractor={this._keyExtractor} /> */}
             </View>
                         <View style={{flex:0.15}}>
-                <FlatList                           
+                <FlatList   
                     horizontal                                                                                                              
-                    refreshControl={                                                            
+                    refreshControl={                                                                                                                                                   
                     <RefreshControl
                       colors={["#bc2326", "#FFF", "#191565"]}
                       refreshing={this.state.refreshing}

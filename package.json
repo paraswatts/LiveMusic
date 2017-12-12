@@ -9,7 +9,6 @@
 	"dependencies": {
 		"react": "16.0.0",
 		"react-native": "0.50.4",
-		"react-native-audio-streamer": "^0.0.9",
 		"react-native-fast-image": "^1.0.0",
 		"react-native-image-pan-zoom": "^2.0.9",
 		"react-native-image-progress": "^1.0.1",

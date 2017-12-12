@@ -19,13 +19,5 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Shpërnda publikisht me"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Shpërnda publikisht me %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Shpalos"</string>
-    <string name="exo_controls_fastforward_description">"Përparo me shpejtësi"</string>
-    <string name="exo_controls_next_description">"Kënga tjetër"</string>
-    <string name="exo_controls_pause_description">"Pauzë"</string>
-    <string name="exo_controls_play_description">"Luaj"</string>
-    <string name="exo_controls_previous_description">"Kënga e mëparshme"</string>
-    <string name="exo_controls_rewind_description">"Kthehu pas"</string>
-    <string name="exo_controls_stop_description">"Ndalo"</string>
-    <string msgid="146198913615257606" name="search_menu_title">"Kërko"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

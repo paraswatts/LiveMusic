@@ -19,7 +19,7 @@ import YouTube from 'react-native-youtube'
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import PropTypes from 'prop-types';
 import Video from 'react-native-video';
-import Slider from 'react-native-slider';
+import Slider from 'react-native-slider';                                                         
 var { height, width } = Dimensions.get('window');
 const statusBarSize = 25;
 
@@ -44,7 +44,9 @@ export default class PlayLive extends Component {
       view:styles.view,
       fullScreen:false,
       controls:styles.controls,
-      isLoading:true
+      isLoading:true,
+      play:styles.play,
+      volumeStyle:styles.volume
     };
     this.handleBackButtonClick = this.handleBackButtonClick.bind(this);
   }     
@@ -146,12 +148,15 @@ export default class PlayLive extends Component {
     // navigate('PlayFullScreen')
     this.setState({fullScreen:!this.state.fullScreen},()=>{
 
-      if(this.state.fullScreen)
+      if(this.state.fullScreen)           
       {
-      this.setState({video:styles.videoStyle,view:styles.topViewStyle,controls:styles.controlsFullscreen});
+      this.setState({video:styles.videoStyle,view:styles.topViewStyle,controls:styles.controlsFullscreen,
+      volumeStyle:styles.volume
+      });
       }
       else{
-        this.setState({video:styles.video,view:styles.view,controls:styles.controls});
+        this.setState({video:styles.video,view:styles.view,controls:styles.controls,volumeStyle:styles.volumeRotate
+        });
         
       }
     })
@@ -191,23 +196,23 @@ export default class PlayLive extends Component {
 
     let volumeButton;                 
     if (this.state.muted) {
-      volumeButton = <Icon onPress={this.toggleVolume.bind(this)} style={styles.volume} name="volume-off" size={18} color="#fff" />;
+      volumeButton = <Icon onPress={this.toggleVolume.bind(this)} style={this.state.volumeStyle} name="volume-off" size={18} color="#fff" />;
     } else {
-      volumeButton = <Icon onPress={this.toggleVolume.bind(this)} style={styles.volume} name="volume-up" size={18} color="#fff" />;
+      volumeButton = <Icon onPress={this.toggleVolume.bind(this)} style={this.state.volumeStyle} name="volume-up" size={18} color="#fff" />;
     }
 
     fullscreenButton = <Icon onPress={() => this.toggleFullScreen()} style={{marginTop:20}} name="fullscreen" size={30} color="#fff" />;
     
 
-                 
-                  
+            //http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8                 
+              //rtsp://capcobroadcaststream.in:1935/capco/ad24    
     return (
       <View style={styles.container}>
       <View style={this.state.view}>
         <Video source={{ uri: 'http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8' }}
           ref="audio"                     
           style={this.state.video}
-          volume={this.state.muted ? 0 : 1.0}           
+          volume={this.state.muted ? 0 : 1.0}                      
           muted={false}                                       
           paused={!this.state.playing}
           onLoadStart={this.onLoadStart.bind(this)}
@@ -236,12 +241,15 @@ const styles = StyleSheet.create({
     flex:0.85,alignItems:'center',justifyContent:'center'
   },
   video:{
-    height:width*0.70,width:width,backgroundColor:'#000'
+    height:width*0.70,width:width                                             
   },
   container: {
     flex: 1,
     alignItems: 'center',
     backgroundColor: 'rgba(0,0,0,1)',
+  },
+  button:{
+
   },
   topViewStyle: {
 
@@ -292,8 +300,19 @@ const styles = StyleSheet.create({
     fontFamily: "Helvetica Neue",
     fontSize: 14,
     marginBottom: 20,
-  },  
+  }, 
+  play:{
+   
+  },
+
+  playRotate:{
+    transform: [
+      { rotateZ: '90deg'},
+    ],
+  },
+
   controls: {
+  
     bottom:100,
     position:'absolute',
     flex:0.15,                                                    
@@ -323,6 +342,12 @@ const styles = StyleSheet.create({
   },
   volume: {
     marginTop: 26,
+  },
+  volumeRotate: {
+    marginTop: 26,
+    transform: [
+      { rotateZ: '90deg'},
+    ],
   },
   sliderContainer: {
     width: window.width - 40,

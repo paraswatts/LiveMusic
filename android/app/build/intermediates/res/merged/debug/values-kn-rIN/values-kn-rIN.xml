@@ -19,13 +19,5 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ಸಂಕುಚಿಸು"</string>
-    <string name="exo_controls_fastforward_description">"ವೇಗವಾಗಿ ಮುಂದಕ್ಕೆ"</string>
-    <string name="exo_controls_next_description">"ಮುಂದಿನ ಟ್ರ್ಯಾಕ್"</string>
-    <string name="exo_controls_pause_description">"ವಿರಾಮಗೊಳಿಸು"</string>
-    <string name="exo_controls_play_description">"ಪ್ಲೇ ಮಾಡು"</string>
-    <string name="exo_controls_previous_description">"ಹಿಂದಿನ ಟ್ರ್ಯಾಕ್"</string>
-    <string name="exo_controls_rewind_description">"ರಿವೈಂಡ್ ಮಾಡು"</string>
-    <string name="exo_controls_stop_description">"ನಿಲ್ಲಿಸು"</string>
-    <string msgid="146198913615257606" name="search_menu_title">"ಹುಡುಕು"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

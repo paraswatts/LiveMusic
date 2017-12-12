@@ -4,7 +4,6 @@ import android.app.Application;
 
 import com.facebook.react.ReactApplication;
 import com.brentvatne.react.ReactVideoPackage;
-import fm.indiecast.rnaudiostreamer.RNAudioStreamerPackage;
 import com.inprogress.reactnativeyoutube.ReactNativeYouTube;
 import org.wonday.orientation.OrientationPackage;
 import com.dylanvann.fastimage.FastImageViewPackage;
@@ -32,7 +31,6 @@ public class MainApplication extends Application implements ReactApplication {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
             new ReactVideoPackage(),
-            new RNAudioStreamerPackage(),
             new ReactNativeYouTube(),
             new OrientationPackage(),
             new FastImageViewPackage(),

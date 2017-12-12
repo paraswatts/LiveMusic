@@ -19,13 +19,5 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"გაზიარება:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s-თან გაზიარება"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"აკეცვა"</string>
-    <string name="exo_controls_fastforward_description">"წინ გადახვევა"</string>
-    <string name="exo_controls_next_description">"შემდეგი ჩანაწერი"</string>
-    <string name="exo_controls_pause_description">"პაუზა"</string>
-    <string name="exo_controls_play_description">"დაკვრა"</string>
-    <string name="exo_controls_previous_description">"წინა ჩანაწერი"</string>
-    <string name="exo_controls_rewind_description">"უკან გადახვევა"</string>
-    <string name="exo_controls_stop_description">"შეწყვეტა"</string>
-    <string msgid="146198913615257606" name="search_menu_title">"ძიება"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

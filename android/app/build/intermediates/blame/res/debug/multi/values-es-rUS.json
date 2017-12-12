@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+        "outputFile": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 510
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 932,
-                    "endColumn": 84,
-                    "endOffset": 1012
+                    "endColumn": 83,
+                    "endOffset": 1011
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
                         "startOffset": 932,
-                        "endColumn": 84,
-                        "endOffset": 1012
+                        "endColumn": 83,
+                        "endOffset": 1011
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1017,
-                    "endColumn": 81,
-                    "endOffset": 1094
+                    "startOffset": 1016,
+                    "endColumn": 80,
+                    "endOffset": 1092
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1017,
-                        "endColumn": 81,
-                        "endOffset": 1094
+                        "startOffset": 1016,
+                        "endColumn": 80,
+                        "endOffset": 1092
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1099,
+                    "startOffset": 1097,
                     "endColumn": 81,
-                    "endOffset": 1176
+                    "endOffset": 1174
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1099,
+                        "startOffset": 1097,
                         "endColumn": 81,
-                        "endOffset": 1176
+                        "endOffset": 1174
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1181,
+                    "startOffset": 1179,
                     "endColumn": 111,
-                    "endOffset": 1288
+                    "endOffset": 1286
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1181,
+                        "startOffset": 1179,
                         "endColumn": 111,
-                        "endOffset": 1288
+                        "endOffset": 1286
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1293,
+                    "startOffset": 1291,
                     "endColumn": 111,
-                    "endOffset": 1400
+                    "endOffset": 1398
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1293,
+                        "startOffset": 1291,
                         "endColumn": 111,
-                        "endOffset": 1400
+                        "endOffset": 1398
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1405,
+                    "startOffset": 1403,
                     "endColumn": 100,
-                    "endOffset": 1501
+                    "endOffset": 1499
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1405,
+                        "startOffset": 1403,
                         "endColumn": 100,
-                        "endOffset": 1501
+                        "endOffset": 1499
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1506,
+                    "startOffset": 1504,
                     "endColumn": 107,
-                    "endOffset": 1609
+                    "endOffset": 1607
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1506,
+                        "startOffset": 1504,
                         "endColumn": 107,
-                        "endOffset": 1609
+                        "endOffset": 1607
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1614,
+                    "startOffset": 1612,
                     "endColumn": 106,
-                    "endOffset": 1716
+                    "endOffset": 1714
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1614,
+                        "startOffset": 1612,
                         "endColumn": 106,
-                        "endOffset": 1716
+                        "endOffset": 1714
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1721,
+                    "startOffset": 1719,
                     "endColumn": 106,
-                    "endOffset": 1823
+                    "endOffset": 1821
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1721,
+                        "startOffset": 1719,
                         "endColumn": 106,
-                        "endOffset": 1823
+                        "endOffset": 1821
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1828,
+                    "startOffset": 1826,
                     "endColumn": 121,
-                    "endOffset": 1945
+                    "endOffset": 1943
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1828,
+                        "startOffset": 1826,
                         "endColumn": 121,
-                        "endOffset": 1945
+                        "endOffset": 1943
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1950,
+                    "startOffset": 1948,
                     "endColumn": 99,
-                    "endOffset": 2045
+                    "endOffset": 2043
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1950,
+                        "startOffset": 1948,
                         "endColumn": 99,
-                        "endOffset": 2045
+                        "endOffset": 2043
                     }
                 }
             },
@@ -367,170 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2050,
-                    "endColumn": 74,
-                    "endOffset": 2120
+                    "startOffset": 2048,
+                    "endColumn": 100,
+                    "endOffset": 2144
                 },
                 "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 74,
-                        "endOffset": 125
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2125,
-                    "endColumn": 75,
-                    "endOffset": 2196
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 130,
-                        "endColumn": 75,
-                        "endOffset": 201
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2201,
-                    "endColumn": 67,
-                    "endOffset": 2264
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 206,
-                        "endColumn": 67,
-                        "endOffset": 269
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2269,
-                    "endColumn": 70,
-                    "endOffset": 2335
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 274,
-                        "endColumn": 70,
-                        "endOffset": 340
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2340,
-                    "endColumn": 78,
-                    "endOffset": 2414
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 345,
-                        "endColumn": 78,
-                        "endOffset": 419
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2419,
-                    "endColumn": 72,
-                    "endOffset": 2487
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 424,
-                        "endColumn": 72,
-                        "endOffset": 492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2492,
-                    "endColumn": 67,
-                    "endOffset": 2555
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 497,
-                        "endColumn": 67,
-                        "endOffset": 560
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2560,
-                    "endColumn": 81,
-                    "endOffset": 2637
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
+                    "file": "/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-es-rUS/values-es-rUS.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2050,
-                        "endColumn": 81,
-                        "endOffset": 2127
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2642,
-                    "endColumn": 100,
-                    "endOffset": 2738
-                },
-                "from": {
-                    "file": "/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-es-rUS/values-es-rUS.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2132,
+                        "startOffset": 2048,
                         "endColumn": 100,
-                        "endOffset": 2228
+                        "endOffset": 2144
                     }
                 }
             }

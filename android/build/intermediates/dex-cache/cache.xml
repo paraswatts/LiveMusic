@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_b65f5e626111846b4ebe8610509217b4513434c4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,21 +39,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-orientation-locker/unspecified/jars/classes.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8b68fa5a2dc78539d86b5fc37ab47050f57074a9">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-orientation-locker-unspecified_86c09ca0964d3e757bd2128e87c1a93a660c1ed8.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_711738e43137c9236882072262a6120f5e6a0d53.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4c5fd16417d6ed5a3f19f96abd378a961928b49d.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a4a2faee46ad4bbd5267886d58d3e35b0ded7e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3da852715f3bc3643cbdd00a07d4e432e3bf14d2">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-spinkit-unspecified_7d1cac8357f59eefabc197973f1d8eb46e336768.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,21 +75,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-audio-streamer/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1183ca588dd400be5155f3d6f79de50fb5439883">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-audio-streamer-unspecified_b8c87bfeaa753fe509717f61eea049d51038530d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="1b6a8c5921674faf26796e185a60d62065b4f157">
         <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r2.1.1_b98267794a2eae5141cd78fb355c144463e6a8ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_81e6463557d21e1bbbcb77bb1b2615c94d7c15b1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dd2344b2cc06dccb5cb58062911f54259c26db30.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-video/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -120,12 +129,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b689f7a2352bee957e7bc9040f60b140299f1232.jar" />
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_ca5828b5f33d605f79983f702bd9fc4f8a70da41.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,12 +147,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-smart-splash-screen/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_2bb6d9ac36126a6ab1879eb1ea79730a457153de.jar" />
+        sha1="1cbc12289a29c13ee7cf754b24da8ae96d694d5d">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-smart-splash-screen-unspecified_e19f615ee9e5d1b64299ef828dd351ecf799cd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6fa7e70e4b7bbc197256065fda10ea7346871d83.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,39 +174,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/glide-3.8.0_f79cc25c9a69b7996439a7da811ee159e5e6abd4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_4e56d0f695d2dff7fb50e1e9286b0aebf49e99c4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cfa0d93c30fe87a9f542d42e42ec433bf784fd8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_014017804bc05d71874e875363bf029ad9390054.jar" />
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_ac63e0e63b43940022e63b62e99f03d6924b64cb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,12 +210,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-fast-image/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6a2ea7d853e9192f067fbc980eebef583f78f2e2.jar" />
+        sha1="7cea1e3b3864d2c5080bd8e8916a9f8a9965c7d8">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-fast-image-unspecified_5348cc6392289f64e0b5a6be5b5a5322c561bcfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_deb7866d15a653df1e5db52e04f38a66b2b17476.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,6 +237,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-youtube/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf08be223329c179623de46a551463a2231383bf">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-youtube-unspecified_5cdf7d006d980a743d9435d742e8acaf3fd2d7ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-spinkit/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -246,12 +255,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6cb80f732e00bad54343bc293b3cd70db2649b5e.jar" />
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_7894a6ace081e7018d5d2dd5595984cf30d98735.jar" />
     </item>
     <item
         is-multidex="false"
@@ -291,15 +300,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_be67bccce4c6a0b581d18306c1128c4ef7d95753.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -309,21 +309,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_bff3da754af01fcb427427077b11cba9e71f5786.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7b2de2bbcf444a46d6ecbd06a740eb8f2576eb03.jar" />
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_cf251da5de77dc461034d58f1eef11184408d57e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -345,12 +336,237 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_df2ae7f63d8b915398120f64e43e9a6e0ed4930c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d1d7fdf92bcc51ceb73420e1f60993b9d193b364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-orientation-locker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8b68fa5a2dc78539d86b5fc37ab47050f57074a9">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-orientation-locker-unspecified_a72423c880781ec4e048b8be4fe9e81c5b0e9535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_b65f5e626111846b4ebe8610509217b4513434c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-orientation-locker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8b68fa5a2dc78539d86b5fc37ab47050f57074a9">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-orientation-locker-unspecified_86c09ca0964d3e757bd2128e87c1a93a660c1ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4c5fd16417d6ed5a3f19f96abd378a961928b49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e8bfa238653a8429e901765c38878c85be29c71d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-audio-streamer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1183ca588dd400be5155f3d6f79de50fb5439883">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-audio-streamer-unspecified_b8c87bfeaa753fe509717f61eea049d51038530d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d801740e83d62321832d14bb52dd4a0e56b73f11">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-vector-icons-unspecified_f6618ec489f837e683e425928269a75f6e8537e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b689f7a2352bee957e7bc9040f60b140299f1232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9342189a08c6534cf906a09a46a305e72574ee43">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/Ab24-react-native-video-unspecified_21eb2dee381dee6c1f86f377d12a4784c9974f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_2bb6d9ac36126a6ab1879eb1ea79730a457153de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/glide-3.8.0_f79cc25c9a69b7996439a7da811ee159e5e6abd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cfa0d93c30fe87a9f542d42e42ec433bf784fd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/Ab24/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_4e56d0f695d2dff7fb50e1e9286b0aebf49e99c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_014017804bc05d71874e875363bf029ad9390054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6a2ea7d853e9192f067fbc980eebef583f78f2e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6cb80f732e00bad54343bc293b3cd70db2649b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ad0744dffc020ad8c027648a5cffa4aed3ccc338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_be67bccce4c6a0b581d18306c1128c4ef7d95753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_bff3da754af01fcb427427077b11cba9e71f5786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_6180e94ac1250af666d50bdf765ad1b21dea2014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7b2de2bbcf444a46d6ecbd06a740eb8f2576eb03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ac6bf74195d1d949a7e7be09092d5e080a2bfbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/brill/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f93227ced140196b59853695d06ae76c91aabd66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_936e6ff7698dfb47bc336e05d9dab2458ce78c10.jar" />
     </item>
     <item
         is-multidex="false"
@@ -372,12 +588,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_969ffb63668de6c42004590ec79f190d6cd995bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_008c4a27e715fc84c396f56823882ecb3d739053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7f4bde1d9bcf6fff7b306be197317809d07ba765.jar" />
     </item>
     <item
         is-multidex="false"
@@ -399,21 +633,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/exploded-aar/Ab24/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
+        <dex dex="/home/brill/react_native_lab/Ab24_Live/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_0027bde113e604eda75d185252baa1a8f09530d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/brill/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0cc93ea38b27590bd030859abf20bd120e180563.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/brill/react_native_lab/Ab24_old/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d1d7fdf92bcc51ceb73420e1f60993b9d193b364.jar" />
     </item>
 
 </items>

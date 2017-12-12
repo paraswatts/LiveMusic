@@ -17,7 +17,9 @@ import YouTube from 'react-native-youtube'
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import PropTypes from 'prop-types';
 var {height,width} = Dimensions.get('window');
-import RNAudioStreamer from 'react-native-audio-streamer';
+
+import Video from 'react-native-video';
+
 
 export default class PlayLiveRadio extends Component {
 
@@ -37,24 +39,19 @@ export default class PlayLiveRadio extends Component {
     {
       AppState.addEventListener('change', this._handleAppStateChange);
       NetInfo.addEventListener('connectionChange',this._handleNetworkStateChange);
-      
-      const url = "http://www.siop.org/conferences/09con/09_siop_005.mp3";
-        RNAudioStreamer.setUrl(url)
-        RNAudioStreamer.play()
-      }
+                                                       
+      }                                                               
     }
 
     componentWillUnmount()                                                  
     {
       NetInfo.removeEventListener('connectionChange',this._handleNetworkStateChange);      
       AppState.removeEventListener('change', this._handleAppStateChange);
-      RNAudioStreamer.pause()
     }
 
     _handleAppStateChange = (nextAppState) => {
       if (nextAppState === 'background') {
-        RNAudioStreamer.pause()
-        this.setState({ playing: false });
+         
       }                       
       this.setState({ appState: nextAppState }, () => {
         console.log("App State" + this.state.appState);
@@ -73,23 +70,18 @@ export default class PlayLiveRadio extends Component {
       }
     }
      
-  togglePlay() {
-    NetInfo.isConnected.fetch().then(isConnected => {
-      if (isConnected) {
-        this.setState({ playing: !this.state.playing });
-      }
-      else {
-        Toast.show('Oops no internet connection !', Toast.LONG);
-      }
-    });  
 
-    RNAudioStreamer.duration((err, duration)=>{
-      console.log(duration)
-      //seconds
-     })                                             
-    
-   
-  }
+    togglePlay() {
+      if(this.state.networkType == 'none')
+      {
+        Toast.show('Oops no internet connection !', Toast.LONG);      
+      }
+      else{
+          this.setState({ playing: !this.state.playing });
+      }
+    } 
+
+  
   render() {                    
 
     let playButton;
@@ -97,19 +89,17 @@ export default class PlayLiveRadio extends Component {
     {
       Toast.show('Oops no internet connection !', Toast.SHORT);                               
       
-    }
+    }                               
     else{
     if (this.state.playing) {
       
       playButton = <Icon onPress={() => 
         {
-          RNAudioStreamer.pause();
         this.togglePlay()}}  name="pause" size={width*0.30} color="#fff" />;
       
     } else {
       playButton = <Icon onPress={() => 
         {
-          RNAudioStreamer.play();
           this.togglePlay()}}  name="play-arrow" size={width*0.30} color="#fff" />;
     }
   }
@@ -130,6 +120,15 @@ export default class PlayLiveRadio extends Component {
          width: width - 20,                                         
        }}>  
        <View style={styles.play}>
+
+       <Video source={{ uri: 'http://stream-tx1.radioparadise.com/mp3-128' }}
+          ref="audio"                     
+          style={this.state.video}
+          volume={1.0}                      
+          muted={false}                                       
+          paused={!this.state.playing}
+          resizeMode="cover"
+          repeat={false} /> 
        {playButton}
        </View>
        </View>

@@ -32,15 +32,15 @@ const HomePage = TabNavigator({
           headerStyle: { backgroundColor: '#194fc3' },
           headerTintColor: '#FFF',
       })
-    },                                                            
-    LiveRadio: {
-      screen: LiveRadio,
-      navigationOptions: () => ({
-        title: 'Live Radio',
-        headerStyle: { backgroundColor: '#194fc3' },
-        headerTintColor: '#FFF',
-    })
-  }, 
+    },                                                                                                                                
+  //   LiveRadio: {
+  //     screen: LiveRadio,
+  //     navigationOptions: () => ({
+  //       title: 'Live Radio',
+  //       headerStyle: { backgroundColor: '#194fc3' },
+  //       headerTintColor: '#FFF',
+  //   })
+  // }, 
   GalleryView: {                       
     screen: GalleryView,
     navigationOptions: () => ({
@@ -87,9 +87,8 @@ const HomePage = TabNavigator({
           
           backgroundColor: '#194fc3',
         },
-        tabStyle: {
-                                                  
-          width:width*0.30,  
+        tabStyle: {                           
+          width:width/3,  
         }
     },
   });
